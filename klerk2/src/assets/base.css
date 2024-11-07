@@ -1,0 +1,7 @@
+/* color palette from <https://github.com/vuejs/theme> */
+
+body {
+  min-height: 100vh;
+  max-width: 1024px;
+  margin: 0 auto;
+}
